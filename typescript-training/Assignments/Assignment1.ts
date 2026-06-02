@@ -20,7 +20,7 @@ console.log(`The Person's email address is ${email}`)
 
 //6. Coordinates of a location (latitude, longitude): 37.7749, -122.4194 
 let coordinates:Number[] = [37.7749, -122.4194];
-console.log("Coordinates of a location, Latitude: "+coordinates[0] + " Longitude: " +coordinates[1]);
+console.log("Coordinates of a location, Latitude: "+coordinates[0] + "," +" Longitude: " +coordinates[1]);
 
 //7. Person's marital status: true or false 
 let maritalStatus:Boolean = true;
